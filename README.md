@@ -1,4 +1,2 @@
 # testRepo
-Este es mi primer cambio!
-
-Este es mi segundo cambio :D
+Este es un cambio en mi branch/rama
